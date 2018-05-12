@@ -17,7 +17,7 @@ Extra points for: Language support, Caching
 ###
 
 # Setup
-First, 'npm install' to install dependencies
-To launch server use 'npm start'. The server use params stablish on config.json. 
-If you want to launch units test, it uses 'npm test'.
+* First, 'npm install' to install dependencies.
+* To launch server use 'npm start'. The server use params stablish on config.json. 
+* If you want to launch units test, it uses 'npm test'.
 
